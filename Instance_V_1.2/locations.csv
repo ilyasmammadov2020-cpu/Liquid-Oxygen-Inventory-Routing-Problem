@@ -1,0 +1,15 @@
+index,type,setupTime,capacity,initial_tank_quantity,safety_level
+0,Base,0,,,
+1,Source,30,,,
+2,Customer,30,52000,15760,10400
+3,Customer,30,120000,39300,24000
+4,Customer,30,6000,1800,1200
+5,Customer,30,9000,1844,1800
+6,Customer,30,6000,4182,1200
+7,Customer,30,6000,5521,1200
+8,Customer,30,6000,1835,1200
+9,Customer,30,12000,4318,2400
+10,Customer,30,18000,6015,3600
+11,Customer,30,20000,4482,200
+12,Customer,30,38000,17986,7600
+13,Customer,30,15000,5552,3000

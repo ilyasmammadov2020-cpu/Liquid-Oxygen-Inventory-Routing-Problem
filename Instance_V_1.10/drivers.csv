@@ -1,0 +1,4 @@
+index,max_driving_duration,trailer_index,min_inter_shift_duration,time_cost
+0,720,0,720,0.4
+1,720,2,720,0.4
+2,720,1,720,0.4
