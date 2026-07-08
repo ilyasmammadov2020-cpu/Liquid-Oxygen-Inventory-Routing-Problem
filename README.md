@@ -1,5 +1,4 @@
 # Liquid-Oxygen-Inventory-Routing-Problem
-# Liquid Oxygen Inventory Routing Problem (LO-IRP)
 
 ## Overview
 
