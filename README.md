@@ -157,3 +157,6 @@ A detailed description of the mathematical model, heuristic algorithm, computati
 ## License
 
 This project is licensed under the MIT License.
+
+
+The full project report is available upon request.
