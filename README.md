@@ -163,5 +163,5 @@ This project is licensed under the MIT License.
 
 The complete technical report is not included in this repository.
 
-If you are a recruiter, professor, or researcher and would like to review the full report, please feel free to contact me.
+If you are a recruiter, professor, or researcher and would like to review the full report, please feel free to contact me
 
